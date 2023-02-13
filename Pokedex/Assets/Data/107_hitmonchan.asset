@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b34c0fc480e73b0419b5220b576ec2f0, type: 3}
+  m_Name: 107_hitmonchan
+  m_EditorClassIdentifier: 
+  pokemonName: HITMONCHAN
+  id: 107
+  sprite: {fileID: 1624507314, guid: e3fcfe4bfa8bb7a4d9f549ed5b4da2a3, type: 3}
+  type: 02000000
+  stats:
+    HP: 50
+    ATK: 105
+    DEF: 79
+    SPD: 76
+    SAT: 35
+    SDF: 110
+  description: The arm-twisting punches it throws pulverize even concrete. It rests
+    after three minutes of fighting.

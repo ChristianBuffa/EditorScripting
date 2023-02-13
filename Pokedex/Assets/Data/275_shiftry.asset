@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b34c0fc480e73b0419b5220b576ec2f0, type: 3}
+  m_Name: 275_shiftry
+  m_EditorClassIdentifier: 
+  pokemonName: SHIFTRY
+  id: 275
+  sprite: {fileID: -436300001, guid: e3fcfe4bfa8bb7a4d9f549ed5b4da2a3, type: 3}
+  type: 070000000f000000
+  stats:
+    HP: 90
+    ATK: 100
+    DEF: 60
+    SPD: 80
+    SAT: 90
+    SDF: 60
+  description: By flapping its leafy fan, it can whip up gusts of 100 ft/second that
+    can level houses.

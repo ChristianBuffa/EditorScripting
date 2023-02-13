@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b34c0fc480e73b0419b5220b576ec2f0, type: 3}
+  m_Name: 272_ludicolo
+  m_EditorClassIdentifier: 
+  pokemonName: LUDICOLO
+  id: 272
+  sprite: {fileID: 475387899, guid: e3fcfe4bfa8bb7a4d9f549ed5b4da2a3, type: 3}
+  type: 0300000007000000
+  stats:
+    HP: 80
+    ATK: 70
+    DEF: 70
+    SPD: 70
+    SAT: 90
+    SDF: 100
+  description: If it hears festive music, all its muscles fill with energy. It can't
+    help breaking out into a dance.

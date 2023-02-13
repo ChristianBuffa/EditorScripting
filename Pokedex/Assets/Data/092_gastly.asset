@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b34c0fc480e73b0419b5220b576ec2f0, type: 3}
+  m_Name: 092_gastly
+  m_EditorClassIdentifier: 
+  pokemonName: GASTLY
+  id: 92
+  sprite: {fileID: 762714587, guid: e3fcfe4bfa8bb7a4d9f549ed5b4da2a3, type: 3}
+  type: 0e00000004000000
+  stats:
+    HP: 30
+    ATK: 35
+    DEF: 30
+    SPD: 80
+    SAT: 100
+    SDF: 35
+  description: This Pokemon's body is 95% made up of gases, which are blown away
+    by strong gusts of wind.

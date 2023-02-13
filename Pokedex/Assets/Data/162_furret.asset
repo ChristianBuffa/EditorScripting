@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b34c0fc480e73b0419b5220b576ec2f0, type: 3}
+  m_Name: 162_furret
+  m_EditorClassIdentifier: 
+  pokemonName: FURRET
+  id: 162
+  sprite: {fileID: -820571611, guid: e3fcfe4bfa8bb7a4d9f549ed5b4da2a3, type: 3}
+  type: 00000000
+  stats:
+    HP: 85
+    ATK: 76
+    DEF: 64
+    SPD: 90
+    SAT: 45
+    SDF: 55
+  description: The mother puts its offspring to sleep by curling up around them.
+    It corners foes with speed.

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b34c0fc480e73b0419b5220b576ec2f0, type: 3}
+  m_Name: 383_groudon
+  m_EditorClassIdentifier: 
+  pokemonName: GROUDON
+  id: 383
+  sprite: {fileID: 1134305209, guid: e3fcfe4bfa8bb7a4d9f549ed5b4da2a3, type: 3}
+  type: 06000000
+  stats:
+    HP: 100
+    ATK: 150
+    DEF: 140
+    SPD: 90
+    SAT: 100
+    SDF: 90
+  description: It had been asleep in underground magma ever since it fiercely fought
+    KYOGRE long ago.

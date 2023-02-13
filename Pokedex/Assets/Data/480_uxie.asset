@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b34c0fc480e73b0419b5220b576ec2f0, type: 3}
+  m_Name: 480_uxie
+  m_EditorClassIdentifier: 
+  pokemonName: UXIE
+  id: 480
+  sprite: {fileID: 410408249, guid: e3fcfe4bfa8bb7a4d9f549ed5b4da2a3, type: 3}
+  type: 0b000000
+  stats:
+    HP: 75
+    ATK: 75
+    DEF: 130
+    SPD: 95
+    SAT: 75
+    SDF: 130
+  description: Known as "The Being of Knowledge." It is said that it can wipe out
+    the memory of those who see its eyes.
